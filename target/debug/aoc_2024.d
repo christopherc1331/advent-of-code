@@ -1,0 +1,1 @@
+/home/chris/code/personal/advent-of-code/target/debug/aoc_2024: /home/chris/code/personal/advent-of-code/src/day_1/day_1.rs /home/chris/code/personal/advent-of-code/src/day_1/mod.rs /home/chris/code/personal/advent-of-code/src/day_2/day_2.rs /home/chris/code/personal/advent-of-code/src/day_2/mod.rs /home/chris/code/personal/advent-of-code/src/main.rs
